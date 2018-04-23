@@ -4,7 +4,7 @@ import { createStore } from 'redux';
 /* Template for action object
 let action = {
     type: 'YOUR_TYPE',
-    user: {your_value}
+    user: {your_values}
 }
 */
 
