@@ -6,7 +6,7 @@ The simple Redux example with 3 steps:
 
 ## Using
 * Run `npm start` or `npm run start` to start your local web server at `localhost:9000`
-* Open console for viewing the result
+* Open console for viewing result
 
 ## References
 * [Learning React-Redux](https://css-tricks.com/learning-react-redux/)
