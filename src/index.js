@@ -2,9 +2,10 @@ import { createStore } from 'redux';
 
 /* ------ REDUX EXAMPLE ------ */
 /* Template for action object
-let action = {type: 'YOUR_TYPE',
-              user: {your_value}
-             }
+let action = {
+    type: 'YOUR_TYPE',
+    user: {your_value}
+}
 */
 
 // STEP 1 - Create the reducer
