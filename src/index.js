@@ -17,10 +17,10 @@ let userReducer = (state, action) => {
     switch(action.type){
         case 'ADD_USER':
             return state.concat(action.user);
-
+            break;
         case 'REMOVE_USER':
             return state.filter(item=>item.id !== action.user.id);
-
+            break;
         default:
             return state;
             break;
